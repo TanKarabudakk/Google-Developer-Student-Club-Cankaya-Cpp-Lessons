@@ -10,4 +10,4 @@ Topluluğumuzun verdiği eğitim için hazırladığımız GitHub Sayfasına hep
 
 Umarız bu sayfa size de bize de faydalı olur.
 
-''Günaydın ve olur da görüşemezsek iyi günler, iyi akşamlar ve iyi geceler.'' - The Truman Show(1998)
+* ''Günaydın ve olur da görüşemezsek iyi günler, iyi akşamlar ve iyi geceler.'' - The Truman Show(1998)
