@@ -1,1 +1,1 @@
-# Google-Developer-Student-Club-Cankaya-C-Egitimi
+# Google-Developer-Student-Club-Cankaya-C++-Egitimi
